@@ -1,0 +1,16 @@
+h1{
+    text-align:center;
+    color:blue
+}
+ul{
+    text-align:center;
+    text-decoration-color: blue;
+    text-decoration: solid;
+    color:red;
+    font-size: medium;
+    font-style: italic; 
+}
+p{
+    text-align: center;
+    color:blueviolet;
+}
